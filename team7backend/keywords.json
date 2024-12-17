@@ -1,0 +1,137 @@
+[
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "great camera",
+    "Count": 120
+  },
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "amazing battery life",
+    "Count": 85
+  },
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "excellent performance",
+    "Count": 90
+  },
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "beautiful design",
+    "Count": 50
+  },
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "overpriced",
+    "Count": 60
+  },
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "screen quality is top-notch",
+    "Count": 70
+  },
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "fragile build",
+    "Count": 40
+  },
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "frequent updates",
+    "Count": 25
+  },
+  {
+    "Device": "Apple iPhone 16",
+    "Keyword": "poor value for money",
+    "Count": 15
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "solid camera",
+    "Count": 110
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "good battery life",
+    "Count": 80
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "smooth performance",
+    "Count": 85
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "sleek design",
+    "Count": 45
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "too expensive",
+    "Count": 55
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "nice display",
+    "Count": 65
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "fragile",
+    "Count": 35
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "regular updates",
+    "Count": 20
+  },
+  {
+    "Device": "Apple iPhone 15",
+    "Keyword": "heats up quickly",
+    "Count": 10
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "stunning camera",
+    "Count": 150
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "amazing battery life",
+    "Count": 100
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "superior performance",
+    "Count": 120
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "modern design",
+    "Count": 70
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "too expensive",
+    "Count": 80
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "brilliant screen",
+    "Count": 90
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "robust build",
+    "Count": 60
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "frequent updates",
+    "Count": 40
+  },
+  {
+    "Device": "Samsung Galaxy S24 Ultra",
+    "Keyword": "poor low-light performance",
+    "Count": 20
+  }
+]
